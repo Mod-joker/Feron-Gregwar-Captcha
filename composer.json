@@ -1,5 +1,5 @@
 {
-    "name": "Mod-joker/Feron-Gregwar-Captcha",
+    "name": "mod-joker/feron-gregwar-captcha",
     "type": "captcha",
     "description": "Captcha generator",
     "keywords": ["captcha", "spam", "bot"],
